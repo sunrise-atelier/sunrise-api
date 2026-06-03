@@ -12,11 +12,8 @@ Shared backend services for the Sunrise Atelier platform — authentication, con
 - Internal project and milestone tracking
 ## Tech stack
  
-- **Language** — Python
-- **Framework** — FastAPI
-- **Database** — Supabase
-- **Package management** — Poetry
- 
+- **Language** — TypeScript
+- **Database** — Supabase 
  
 ## Contributing
  
