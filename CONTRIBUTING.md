@@ -43,7 +43,7 @@ Each program needs different kinds of contributors. Read the section for the pro
  
 **Who we need:**
 - **Developers** — frontend, backend, full-stack, or infrastructure. Expect to be comfortable with multiple languages if you intend to contribute to multiple tools. Most tools are built using React, TypeScript, and TailwindCSS.
-- **Researchers** — context. contexct. context. researchers may participate in community needs assessment or user interviews with persons of interest.
+- **Researchers** — context. context. context. researchers may participate in community needs assessment or user interviews with persons of interest.
 - **Designers** — tool UI/UX, accessibility, documentation design. Should also be familiar with design tools like Canva, Figma, and concepts like A/B testing.
 **Stack varies by submodule.** Check the README inside each submodule directory for its specific setup instructions.
  
