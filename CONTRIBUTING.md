@@ -74,6 +74,7 @@ Each program needs different kinds of contributors. Read the section for the pro
 - **Bilingual contributors** — Mandarin, Cantonese, Vietnamese, Korean, and Japanese speakers for translation and cultural review. This is not a translation gig — we need people who understand the business context and can catch cultural mismatches, not just language errors.
 - **Deployment volunteers** — willing to go on-site to small businesses, install tools, configure settings, and train staff. Non-technical but requires patience, communication skills, and ideally some language overlap with the business owner. CURRENTLY NOT ACCEPTING APPLICANTS UNTIL FURTHER NOTICE.
 - **Designers** — UI/UX with sensitivity to multilingual interfaces and non-technical users. Should be familiar with A/B testing and tools like Canva and Figma.
+  
 **What to include in your application:**
 - For bilingual contributors: which language(s) 
 - For deployment volunteers: location (we need people who can physically reach OC and Bay Area business corridors) and availability
