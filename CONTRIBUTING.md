@@ -106,7 +106,14 @@ Each program needs different kinds of contributors. Read the section for the pro
 - **Designers** — UI/UX, visual design
 
 ---
+
+ ### Other Roles
  
+**Who we need:**
+- **Media** (Social Media, Technical Writing)
+- **Operations** (Logistics, Public Relations, Internal Relations)
+
+---
  
 ## Code standards
  
