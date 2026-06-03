@@ -15,45 +15,11 @@ Shared backend services for the Sunrise Atelier platform — authentication, con
 - Internal project and milestone tracking
 ## Tech stack
  
-- **Runtime** — Python 3.14+
+- **Language** — Python
 - **Framework** — FastAPI
-- **Database** — PostgreSQL via SQLAlchemy + Alembic
+- **Database** — Supabase
 - **Package management** — Poetry
-## Getting started
  
-### Prerequisites
- 
-- Python 3.14+
-- PostgreSQL
-- Poetry
-### Install
- 
-```bash
-git clone https://github.com/sunrise-atelier/sunrise-api
-cd sunrise-api
-poetry install
-```
- 
-### Environment variables
- 
-```bash
-cp .env.example .env
-# fill in your database URL and secret key
-```
- 
-### Run locally
- 
-```bash
-poetry run uvicorn app.main:app --reload
-```
- 
-API runs at [http://localhost:8000](http://localhost:8000). Docs at [http://localhost:8000/docs](http://localhost:8000/docs).
- 
-### Run migrations
- 
-```bash
-poetry run alembic upgrade head
-```
  
 ## Contributing
  
